@@ -1,0 +1,59 @@
+[
+    {
+      "category": "New In",
+      "url": "/newin",
+      "img": "https://cdn-media.prettylittlething.com/studio/mega-menu/desktop/12.11.20/newin.jpg",
+      "subCategories": [
+        {
+          "title": "Sub Category 1",
+          "links": [
+            {
+              "name": "link 1",
+              "url": "/1"
+            },
+            {
+              "name": "link 2",
+              "url": "/2"
+            },
+            {
+              "name": "link 3",
+              "url": "/3"
+            },
+            {
+              "name": "link 4",
+              "url": "/4"
+            },
+            {
+              "name": "link 5",
+              "url": "/5"
+            },
+            {
+              "name": "link 6",
+              "url": "/6"
+            }
+          ]
+        },
+        {
+          "title": "Sub Category 2",
+          "links": [
+            {
+              "name": "link 1",
+              "url": "/1"
+            },
+            {
+              "name": "link 2",
+              "url": "/2"
+            },
+            {
+              "name": "link 3",
+              "url": "/3"
+            },
+            {
+              "name": "link 4",
+              "url": "/4"
+            }
+          ]
+        }
+      ]
+    }
+  ]
